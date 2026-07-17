@@ -18,10 +18,10 @@ A Pharmacy Management System developed using Python and MySQL for efficient medi
 ![Medicine Management](images/medicines.png)
 
 ### Customer Management
-![Customer Management](images/customer.png)
+![Customer Management](images/customers.png)
 
 ### Supplier Management
-![Supplier Management](images/supplier.png)
+![Supplier Management](images/suppliers.png)
 
 ### Sales Management
 ![Sales Management](images/sales.png)

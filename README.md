@@ -8,7 +8,7 @@ A Pharmacy Management System developed using Python and MySQL for efficient medi
 - Manage suppliers
 - Record sales
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository.
 2. Install the required package:
@@ -23,7 +23,6 @@ A Pharmacy Management System developed using Python and MySQL for efficient medi
    ```
 
 ## Application Screenshots
-## 📸 Application Screenshots
 
 ### Dashboard
 ![Dashboard](images/dashboard.png)

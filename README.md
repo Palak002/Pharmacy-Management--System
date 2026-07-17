@@ -12,10 +12,10 @@ A Pharmacy Management System developed using Python and MySQL for efficient medi
 ## 📸 Application Screenshots
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images\dashboard.png.png")
 
 ### Medicine Management
-![Medicine Management](images/medicine-management.png)
+![Medicine Management](images/medicines.png)
 
 ### Customer Management
 ![Customer Management](images/customer-management.png)
